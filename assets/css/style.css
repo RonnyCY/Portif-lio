@@ -82,7 +82,7 @@ li {
     margin: 1px ;
     
     padding: 15px 9px;
-    height: 55vh;
+    height: 70vh;
     border: 5px solid black;
     border-radius: 1.5%;
 }
@@ -118,7 +118,7 @@ h2{
 #projeto{
     padding: 1px 9px;
     margin: 1px;
-    height: 50vh;
+    height: 70vh;
     
     border: 5px solid black;
     border-radius: 1.5%;
@@ -146,7 +146,7 @@ h2{
 #contato{
     padding: 15px 9px;
     margin: 1px;
-    height: 80vh;
+    height: 100vh;
     
     border: 5px solid black;
     border-radius: 1.5%;
